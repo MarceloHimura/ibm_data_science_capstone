@@ -1,4 +1,4 @@
-# ibm_data_science_capstone
+# IBM data science capstone
 
 ### Week 1
 - lab 1
